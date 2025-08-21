@@ -1,0 +1,631 @@
+Gen_a	Gen_b	Ortholog_Status	Species_with_Ortholog	Hormone	Duplicated_Ortholog
+Solyc01g103570	Capang01g004398	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g103570	Capana08g001831	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g103570	PGSC0003DMP400043214\tPGSC0003DMT400064124	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g103570	SLYcer01g07298	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc11g007940	PGSC0003DMP400047530\tPGSC0003DMT400070306	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc11g007940	PGSC0003DMP400047529\tPGSC0003DMT400070305	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc11g007940	Capana12g002410	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc11g007940	SLYcer11g00402	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc11g007940	Sopen11g003810	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc12g014400	Capana03g001401	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc12g014400	Sopen12g007250	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc12g014400	SPI12g00921	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc12g014400	SLYcer12g00869	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc06g071770	SPI06g04587	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc06g071770	PGSC0003DMP400047024\tPGSC0003DMT400069639	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g071770	Capang06g000867	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g071770	Capana06g000925	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc03g112700	SLYcer03g04451	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc03g112700	Capana03g001154	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc03g112700	Capang03g001109	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc03g112700	PGSC0003DMP400031540\tPGSC0003DMT400046621	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc03g112700	Sopen03g031780	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc03g112700	SPI03g04501	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc04g010090	Capang05g000350	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g010090	SLYcer04g00637	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc04g010090	Capana05g000434	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc04g010090	PGSC0003DMP400020338\tPGSC0003DMT400029922	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc04g010090	PGSC0003DMP400020337\tPGSC0003DMT400029921	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc04g010090	PGSC0003DMP400020339\tPGSC0003DMT400029923	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc06g008330	PGSC0003DMP400044246\tPGSC0003DMT400065573	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g008330	SPI06g00305	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc06g008330	SLYcer06g00520	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc06g008330	Capang06g002770	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g008330	Sopen06g003180	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc10g074790	Sopen10g027280	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc10g074790	Capang10g000883	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc10g074790	SLYcer10g04980	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc10g074790	Capana10g001059	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc10g074790	PGSC0003DMP400048171\tPGSC0003DMT400071229	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc11g011380	PGSC0003DMP400023400\tPGSC0003DMT400034421	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc11g011380	SLYcer11g00661	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc05g010010	Sopen05g005820	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc05g010010	SPI05g00694	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc03g122340	Sopen03g041110	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc03g122340	Capang03g000098	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc03g122340	PGSC0003DMP400039701\tPGSC0003DMT400058933	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc08g080410	Capana01g000317	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g105710	PGSC0003DMP400056071\tPGSC0003DMT400083778	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g009750	Sopen06g004370	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc06g009750	SPI06g00544	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc06g009750	PGSC0003DMP400012911\tPGSC0003DMT400018802	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g009750	SLYcer06g00706	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc06g009750	Capana00g003274	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc06g009750	Capang12g001571	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc10g081650	SPI10g04062	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc10g081650	PGSC0003DMP400049062\tPGSC0003DMT400072543	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc10g081650	Capana00g004805	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g108270	PGSC0003DMP400044721\tPGSC0003DMT400066347	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc01g108270	Capang01g004929	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g108270	SPI01g08444	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g108270	Capana08g002386	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc08g075450	Sopen08g024080	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc10g008870	SPI10g00499	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc10g008870	Sopen10g004660	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc03g097970	Sopen06g028810	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc03g097970	SPI06g04660	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc03g097970	SLYcer03g04120	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	TRUE
+Solyc03g097970	Sopen03g028680	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc03g097970	SPI03g04183	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc03g097970	Capana03g001599	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc03g097970	Capang03g001547	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc03g097970	PGSC0003DMP400056204\tPGSC0003DMT400083982	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc11g068550	PGSC0003DMP400045713\tPGSC0003DMT400067714	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc11g068550	Sopen11g027270	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc11g068550	SLYcer11g03822	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc11g068550	SPI11g03884	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc11g068550	Capana11g000320	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g005250	PGSC0003DMP400039525\tPGSC0003DMT400058680	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g005250	Capang01g002840	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g005250	SPI01g00167	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g005250	Capana08g000095	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g005250	SLYcer01g00139	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g005250	Sopen01g001280	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc02g069090	SLYcer02g03713	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc02g069090	SPI02g02606	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc02g069090	Capana02g001274	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc02g069090	Sopen02g018190	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc02g069090	Capang02g001100	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc02g069090	PGSC0003DMP400018308\tPGSC0003DMT400026852	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc02g069090	PGSC0003DMP400018307\tPGSC0003DMT400026850	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc04g024340	SLYcer04g02794	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc04g024340	PGSC0003DMP400004332\tPGSC0003DMT400006269	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc02g062040	PGSC0003DMP400041285\tPGSC0003DMT400061368	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc02g062040	SPI02g01957	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc02g062040	Capana02g000544	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc02g062040	Sopen02g013000	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g024510	PGSC0003DMP400007546\tPGSC0003DMT400010840	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc12g088900	Capana12g000703	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc12g088900	Sopen12g030800	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc12g088900	Capang12g000589	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g055200	Capana12g001691	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc04g055200	Sopen04g025060	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g055200	SPI04g03778	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc04g055200	Capang11g000547	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc11g073200	SLYcer11g04225	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc11g073200	Sopen11g030830	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc11g073200	PGSC0003DMP400027278\tPGSC0003DMT400040214	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc11g073200	Capang00g000890	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc10g083360	Sopen10g032860	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc05g053040	PGSC0003DMP400047160\tPGSC0003DMT400069797	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc08g077530	SLYcer08g05974	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc08g077530	Capana01g000793	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc08g077530	Capang01g000716	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc08g077530	SPI08g05863	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc10g044780	Sopen10g013470	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc10g044780	Capang10g000778	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc10g044780	Capana10g001039	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc10g044780	SLYcer10g03168	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g097510	SPI01g07467	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g097510	PGSC0003DMP400033754\tPGSC0003DMT400049998	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g097510	SLYcer01g07807	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g097510	Capana08g001268	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc01g097510	Capana08g001265	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc01g097510	Capang01g003847	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc01g097510	Capang01g003850	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc01g107290	PGSC0003DMP400044603\tPGSC0003DMT400066172	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g107290	Capana08g002258	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g107290	Sopen01g049540	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g107290	SPI01g08348	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc12g098710	Sopen12g033460	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc03g111010	Capang11g000919	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc03g111010	SPI03g04333	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc03g111010	Sopen03g030190	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc03g111010	Sopen03g030190	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc03g111010	Capang03g001318	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc03g111010	SLYcer03g04274	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	TRUE
+Solyc03g111010	Capana00g001096	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc03g111010	SPI05g01185	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc03g111010	Capana03g001381	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc02g088390	Capang02g003070	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc02g088390	PGSC0003DMP400002601\tPGSC0003DMT400003642	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc02g088390	SLYcer02g05258	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	TRUE
+Solyc02g088390	SPI02g04178	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc01g107800	Capana08g002326	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g107800	Capang01g004876	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g107800	SLYcer01g08171	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g107800	SPI01g08400	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g107800	Sopen01g049970	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g107800	PGSC0003DMP400044884\tPGSC0003DMT400066571	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc08g065350	PGSC0003DMP400052177\tPGSC0003DMT400076991	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc08g065350	Sopen08g018910	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc06g084130	Capang06g000087	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc03g117250	Capang03g000470	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g009230	SPI04g00526	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc04g009230	Sopen02g004390	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g009230	SLYcer02g01583	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc04g009230	Capana02g000307	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc04g009230	PGSC0003DMP400011903\tPGSC0003DMT400017277	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc01g108280	Capana08g002441	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc06g084390	Capana06g000056	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc06g084390	PGSC0003DMP400034751\tPGSC0003DMT400051608	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g084390	Capang06g000040	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g084390	SLYcer06g05504	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc06g084390	Sopen06g035780	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc10g007600	SLYcer10g00500	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc10g007600	PGSC0003DMP400036812\tPGSC0003DMT400054731	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc10g007600	PGSC0003DMP400036811\tPGSC0003DMT400054730	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc10g007600	Capang10g000131	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc10g007600	Sopen10g003520	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc10g007600	Capana10g000134	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g101240	Sopen01g044690	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc01g101240	Capang01g004258	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc01g101240	PGSC0003DMP400031856\tPGSC0003DMT400047088	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc01g101240	SLYcer01g07429	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	TRUE
+Solyc01g104080	SLYcer01g07240	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g104080	SPI01g08022	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g104080	Capana08g001913	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g066430	Capang01g002044	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g066430	SLYcer01g05683	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g066430	SPI01g05856	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g066430	Capana01g002369	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc12g056220	Capana01g004456	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc12g056220	Capang10g002159	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc12g056220	Sopen08g003930	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc12g056220	SLYcer08g00527	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	TRUE
+Solyc12g056220	SLYcer08g06332	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	TRUE
+Solyc12g056220	SLYcer12g04458	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	TRUE
+Solyc01g079830	Capang01g002645	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g079830	SPI01g06404	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g079830	PGSC0003DMP400015816\tPGSC0003DMT400023222	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g079830	SLYcer01g06109	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc11g011910	Capana12g002825	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc11g011910	PGSC0003DMP400023593\tPGSC0003DMT400034692	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc11g011910	SLYcer11g00713	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc04g050920	SLYcer04g03562	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc09g092520	Capana03g004113	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc09g092520	Sopen09g035420	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc09g092520	SPI09g04882	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc09g092520	SLYcer09g05205	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc09g092520	Capang03g003963	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g074940	PGSC0003DMP400012654\tPGSC0003DMT400018395	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc06g074940	Capang00g003866	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g074940	PGSC0003DMP400012656\tPGSC0003DMT400018397	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc06g074940	SLYcer06g05058	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g104510	Capana08g001956	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g104510	SPI01g08074	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g104510	PGSC0003DMP400041080\tPGSC0003DMT400061016	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g104510	Capang01g004518	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g084440	SLYcer06g05509	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc06g074220	Capang06g000567	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g074220	PGSC0003DMP400010431\tPGSC0003DMT400015070	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g074220	SLYcer06g04975	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc07g052480	SPI07g05475	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc07g052480	PGSC0003DMP400044193\tPGSC0003DMT400065512	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc07g052480	Capang00g003779	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc07g052480	Sopen07g026110	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc06g031690	Capang06g002159	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g031690	Capana06g002321	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g098390	SLYcer01g07717	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g098390	Capana08g001379	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g098390	Sopen01g041960	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g098390	SPI01g07553	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc08g078250	PGSC0003DMP400045537\tPGSC0003DMT400067481	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc09g074320	Capang03g003437	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc09g074320	SPI09g04058	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc09g074320	SLYcer09g04263	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc09g074320	Capana03g003528	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc03g082620	PGSC0003DMP400032302\tPGSC0003DMT400047690	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc03g082620	Sopen03g022380	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc03g082620	SPI03g03350	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc03g082620	SLYcer03g03261	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc03g082620	Capana03g001942	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc03g082620	Capang03g001845	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc03g097750	Sopen03g028510	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc03g097750	Capang03g001568	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc05g043430	SPI05g03897	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc05g043430	SLYcer05g03267	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc05g043430	Sopen05g026690	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g104220	SPI01g08035	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g104220	Capana08g001924	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc04g078920	Sopen04g032520	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g078920	PGSC0003DMP400014027\tPGSC0003DMT400020590	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g111980	Sopen01g054030	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g111980	SPI01g08805	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g111980	PGSC0003DMP400032501\tPGSC0003DMT400048002	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g028830	PGSC0003DMP400041519\tPGSC0003DMT400061698	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc01g028830	Sopen01g016890	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc05g015390	SPI05g01716	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc05g015390	SLYcer05g01259	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc05g015390	PGSC0003DMP400050689\tPGSC0003DMT400074842	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc05g015390	Capang12g001083	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc05g018130	Capana01g002133	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc05g018130	PGSC0003DMP400047696\tPGSC0003DMT400070554	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc05g018130	PGSC0003DMP400047697\tPGSC0003DMT400070555	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc05g018130	SPI05g02247	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc05g018130	Sopen05g014790	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc05g018130	Capang01g001852	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc12g005150	SLYcer12g00099	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc12g005150	Capana04g000759	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc12g005150	SPI12g00145	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc07g054490	Capana07g001670	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc07g054490	PGSC0003DMP400032006\tPGSC0003DMT400047292	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc07g054490	SLYcer07g04974	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc07g054490	Sopen07g028430	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc07g054490	SPI07g05702	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc07g054490	Capang07g001664	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g076380	SLYcer04g05249	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc04g076380	Sopen04g030140	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g076380	SPI04g04739	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc09g047930	Capang09g000717	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc10g049850	Sopen10g019880	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc10g049850	Sopen10g019880	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc10g049850	SPI10g02425	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc04g018110	SLYcer04g01694	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc04g018110	Capang05g000025	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g018110	PGSC0003DMP400018793\tPGSC0003DMT400027581	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc04g018110	Capana05g000028	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc04g018110	SPI04g01481	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc08g076930	PGSC0003DMP400030626\tPGSC0003DMT400045204	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc08g076930	Sopen08g025500	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc08g076930	SLYcer08g05909	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc08g076930	SPI08g05799	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc08g076930	Capana01g001098	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc08g076930	Capang01g000946	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g108910	SLYcer01g08283	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc02g080630	SPI02g03348	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc02g080630	Capang02g001979	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc02g080630	Sopen02g025340	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc02g080630	SLYcer02g04450	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc02g080630	PGSC0003DMP400028772\tPGSC0003DMT400042417	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g103570	Sopen01g045920	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc11g007940	SPI11g00548	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc11g007940	Capang12g002077	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc12g014400	Capang04g001133	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g071770	SLYcer06g04727	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc06g071770	Sopen06g028060	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g010090	Sopen04g005230	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g010090	SPI04g00613	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc06g008330	Capana06g003010	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc10g074790	SPI10g03475	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc11g011380	Sopen11g006180	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc11g011380	SPI11g00811	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc11g011380	Capana05g001715	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc11g011380	Capana05g000208	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc11g011380	Capana05g000857	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc05g010010	Capana11g002205	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc05g010010	PGSC0003DMP400043578\tPGSC0003DMT400064634	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc05g010010	Capang11g002109	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc05g010010	SLYcer05g00661	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc03g122340	Capana03g000103	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc03g122340	SPI03g05491	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc03g122340	SLYcer03g05459	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc08g080410	PGSC0003DMP400005476\tPGSC0003DMT400007881	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc08g080410	PGSC0003DMP400005475\tPGSC0003DMT400007880	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc08g080410	SLYcer08g06260	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc08g080410	SPI08g06167	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc08g080410	Sopen08g028740	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc08g080410	Capang01g000294	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g105710	Sopen01g048150	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g105710	SPI01g08194	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g105710	SLYcer01g07955	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g105710	Capana08g002087	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g057330	SLYcer01g04775	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc10g081650	Capang07g000771	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc10g081650	Sopen10g032160	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc10g081650	SLYcer10g05558	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g108270	PGSC0003DMP400044720\tPGSC0003DMT400066346	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc01g108270	SLYcer01g08222	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g108270	Sopen01g050490	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc08g075450	SLYcer08g05763	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc08g075450	SPI08g05648	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc10g008870	SLYcer10g00638	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc10g008870	PGSC0003DMP400039603\tPGSC0003DMT400058783	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc10g008870	PGSC0003DMP400039602\tPGSC0003DMT400058782	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc03g097970	PGSC0003DMP400046776\tPGSC0003DMT400069274	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc03g097970	PGSC0003DMP400056205\tPGSC0003DMT400083983	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc03g097970	SLYcer06g04798	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	TRUE
+Solyc02g089610	PGSC0003DMP400017785\tPGSC0003DMT400026053	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc02g089610	PGSC0003DMP400017784\tPGSC0003DMT400026052	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc02g089610	Capang02g002929	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc02g089610	SLYcer02g05372	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc02g089610	Capana00g002899	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc02g089610	Capana00g002898	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc02g089610	SPI02g04295	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc02g089610	Sopen02g034330	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc11g068550	Capang11g000290	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g024340	SPI04g02552	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc04g024340	Sopen04g010310	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc02g062040	Capang00g003665	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc12g088900	PGSC0003DMP400027058\tPGSC0003DMT400039927	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc04g055200	SLYcer04g04133	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc11g073200	Capang00g000889	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc10g083360	Capana10g001999	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc10g083360	PGSC0003DMP400048936\tPGSC0003DMT400072375	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc10g083360	Capang10g001760	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc10g083360	SPI10g04170	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc05g053040	Capang05g001755	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc05g053040	Capana05g002200	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc05g053040	Sopen05g031560	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc08g077530	PGSC0003DMP400003321\tPGSC0003DMT400004686	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc08g077530	Sopen08g026110	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g099800	SPI01g07699	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc10g044780	SPI10g01476	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc10g044780	PGSC0003DMP400013252\tPGSC0003DMT400019338	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g097510	Sopen01g041170	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g107290	Capang01g004812	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g107290	SLYcer01g08117	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc12g098710	PGSC0003DMP400008110\tPGSC0003DMT400011667	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc12g098710	PGSC0003DMP400008109\tPGSC0003DMT400011666	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc12g098710	Capana12g000229	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc12g098710	SLYcer12g05052	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc12g098710	SPI12g05010	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc12g098710	Capang12g000202	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc12g098710	Sopen12g033460	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc03g111010	Sopen05g009560	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc03g111010	SLYcer05g01109	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	TRUE
+Solyc03g111010	PGSC0003DMP400030463\tPGSC0003DMT400044944	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc03g111010	SPI05g01183	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc03g111010	PGSC0003DMP400030464\tPGSC0003DMT400044945	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc07g006280	Capang12g001689	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc07g006280	SPI07g00319	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc07g006280	Capana00g003691	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc07g006280	Sopen07g002370	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc07g006280	PGSC0003DMP400019741\tPGSC0003DMT400029027	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc02g088390	Sopen02g033070	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc02g088390	Capana02g003335	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc08g065350	Capana06g002830	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc06g084130	PGSC0003DMP400034944\tPGSC0003DMT400051889	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g084130	SLYcer06g05476	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc06g084130	SPI06g05368	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc06g084130	Sopen06g035510	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc03g117250	Capana03g000510	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc03g117250	SLYcer03g04921	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc03g117250	Sopen03g036140	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc03g117250	SPI03g04978	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc04g009230	SPI02g00562	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc04g009230	Capang03g001811	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc04g009230	Capang02g000254	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc04g009230	Capana03g001896	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc04g009230	PGSC0003DMP400055590\tPGSC0003DMT400082441	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc01g108280	Sopen01g050500	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g108280	SLYcer01g08223	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g108280	PGSC0003DMP400044922\tPGSC0003DMT400066617	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g108280	Capang01g004977	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g084390	SPI06g05395	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc10g007600	SPI10g00364	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g101240	SPI01g07843	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc01g101240	Capana08g001677	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc09g089580	SPI09g04546	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc09g089580	SLYcer09g04889	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc09g089580	Sopen09g032520	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g104080	PGSC0003DMP400041176\tPGSC0003DMT400061153	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g104080	Sopen01g046490	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g104080	Capang01g004476	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g066430	Sopen01g028080	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g066430	PGSC0003DMP400020053\tPGSC0003DMT400029456	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc12g056220	Capana12g001128	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc12g056220	Capang08g001288	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc12g056220	Capana01g000250	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc12g056220	PGSC0003DMP400008878\tPGSC0003DMT400012780	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc12g056220	PGSC0003DMP400021836\tPGSC0003DMT400032134	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc12g056220	PGSC0003DMP400010252\tPGSC0003DMT400014809	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc12g056220	Sopen08g029490	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc12g056220	Sopen12g028730	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc12g056220	SPI08g06241	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc12g056220	SPI12g04416	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc12g056220	SPI08g00500	Has Ortholog	Tomatopimp	Jasmonic Acid	TRUE
+Solyc01g079830	Capana01g002944	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc11g011910	PGSC0003DMP400023591\tPGSC0003DMT400034690	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc11g011910	PGSC0003DMP400023592\tPGSC0003DMT400034691	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc11g011910	SPI11g00864	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc11g011910	Sopen11g006730	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc11g011910	Capang12g002473	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g050920	Sopen04g022040	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g050920	SPI04g03287	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc04g050920	PGSC0003DMP400009420\tPGSC0003DMT400013600	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc09g092520	PGSC0003DMP400037893\tPGSC0003DMT400056316	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g074940	Sopen06g031340	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc06g074940	Capana06g000523	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc06g074940	PGSC0003DMP400012657\tPGSC0003DMT400018398	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc06g074940	SPI06g04918	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g104510	Sopen01g047010	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g104510	SLYcer01g07185	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc06g067970	Capana12g001374	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc06g084440	Capana06g000002	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc06g084440	SPI06g05400	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc06g084440	Sopen06g035830	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc06g084440	Capang06g000001	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g084440	PGSC0003DMP400041577\tPGSC0003DMT400061780	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g074220	SPI06g04842	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc06g074220	Sopen06g030640	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc07g052480	SLYcer07g04757	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc06g031690	SLYcer06g02610	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g098390	PGSC0003DMP400049733\tPGSC0003DMT400073501	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc01g098390	Capang01g003953	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc08g078250	SLYcer08g06051	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc08g078250	Capang01g000613	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc08g078250	Sopen08g026760	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc08g078250	SPI08g05948	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc08g078250	Capana01g000673	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc09g074320	Sopen09g029160	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc06g053480	PGSC0003DMP400028549\tPGSC0003DMT400042118	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc06g053480	SPI06g03545	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc06g053480	Sopen06g018560	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc06g053480	Capana06g002092	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc06g053480	Capang06g001920	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc06g053480	SLYcer06g03635	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc03g097750	Capana03g001623	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc03g097750	PGSC0003DMP400034468\tPGSC0003DMT400051115	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc03g097750	SLYcer03g04045	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g104220	SLYcer01g07224	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g104220	Capang01g004489	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g104220	Sopen01g046660	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g104220	PGSC0003DMP400041169\tPGSC0003DMT400061146	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc04g078920	SPI04g04998	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc04g078920	Capang04g001554	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g078920	SLYcer04g05502	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc04g078920	Capana04g001639	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g111980	Capang01g005376	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g111980	Capana08g002793	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g111980	SLYcer01g08576	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc01g028830	SPI01g04271	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g028830	PGSC0003DMP400041518\tPGSC0003DMT400061697	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc01g028830	Capang01g001739	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc01g028830	Capana01g002031	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc01g028830	SLYcer01g04242	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc05g015390	Sopen05g010680	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc05g015390	Capana11g000872	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc05g018130	PGSC0003DMP400047698\tPGSC0003DMT400070556	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc05g018130	SLYcer05g01715	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc12g005150	PGSC0003DMP400002040\tPGSC0003DMT400002817	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc12g005150	Capang04g000725	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc12g005150	Sopen12g001140	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g076380	Capana04g000836	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc04g076380	Capang04g000790	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g076380	PGSC0003DMP400016498\tPGSC0003DMT400024163	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc09g047930	SPI09g02131	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc09g047930	PGSC0003DMP400050802\tPGSC0003DMT400075007	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc09g047930	PGSC0003DMP400050801\tPGSC0003DMT400075006	Has Ortholog	Potato	Jasmonic Acid	TRUE
+Solyc09g047930	Capana09g000795	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc09g047930	SLYcer09g02216	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc09g047930	Sopen09g016040	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc10g049850	Sopen10g019880	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc10g049850	Sopen10g019880	Has Ortholog	TomatoPennelli	Jasmonic Acid	TRUE
+Solyc10g049850	PGSC0003DMP400040236\tPGSC0003DMT400059816	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc10g049850	SLYcer10g04059	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc04g014730	SPI04g00919	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc04g014730	Capana05g000164	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc04g014730	PGSC0003DMP400040849\tPGSC0003DMT400060696	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc04g014730	Sopen04g006840	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc04g014730	Capang05g000160	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	FALSE
+Solyc04g014730	SLYcer04g01194	Has Ortholog	TomatoCerasiforme	Jasmonic Acid	FALSE
+Solyc04g018110	Sopen04g009340	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g108910	SPI01g08507	Has Ortholog	Tomatopimp	Jasmonic Acid	FALSE
+Solyc01g108910	Capana08g002472	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc01g108910	Capang01g004995	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc01g108910	Capana08g002474	Has Ortholog	CaZL1.pep	Jasmonic Acid	TRUE
+Solyc01g108910	Capang01g004996	Has Ortholog	CaChiltepin.pep	Jasmonic Acid	TRUE
+Solyc01g108910	Sopen01g051110	Has Ortholog	TomatoPennelli	Jasmonic Acid	FALSE
+Solyc01g108910	PGSC0003DMP400044987\tPGSC0003DMT400066723	Has Ortholog	Potato	Jasmonic Acid	FALSE
+Solyc02g080630	Capana02g002206	Has Ortholog	CaZL1.pep	Jasmonic Acid	FALSE
+Solyc02g088390	Capang02g003070	Has Ortholog	CaChiltepin.pep	Brassinosteroid	TRUE
+Solyc02g088390	PGSC0003DMP400002601\tPGSC0003DMT400003642	Has Ortholog	Potato	Brassinosteroid	TRUE
+Solyc02g088390	SLYcer02g05258	Has Ortholog	TomatoCerasiforme	Brassinosteroid	TRUE
+Solyc02g088390	SPI02g04178	Has Ortholog	Tomatopimp	Brassinosteroid	TRUE
+Solyc11g008680	Sopen11g004460	Has Ortholog	TomatoPennelli	Brassinosteroid	FALSE
+Solyc11g008680	Capana12g002555	Has Ortholog	CaZL1.pep	Brassinosteroid	FALSE
+Solyc11g008680	SPI11g00624	Has Ortholog	Tomatopimp	Brassinosteroid	FALSE
+Solyc11g008680	Capang12g002206	Has Ortholog	CaChiltepin.pep	Brassinosteroid	FALSE
+Solyc11g008680	SLYcer11g00480	Has Ortholog	TomatoCerasiforme	Brassinosteroid	FALSE
+Solyc11g008680	PGSC0003DMP400028382\tPGSC0003DMT400041874	Has Ortholog	Potato	Brassinosteroid	FALSE
+Solyc01g101240	Sopen01g044690	Has Ortholog	TomatoPennelli	Brassinosteroid	TRUE
+Solyc01g101240	Capang01g004258	Has Ortholog	CaChiltepin.pep	Brassinosteroid	TRUE
+Solyc01g101240	PGSC0003DMP400031856\tPGSC0003DMT400047088	Has Ortholog	Potato	Brassinosteroid	TRUE
+Solyc01g101240	SLYcer01g07429	Has Ortholog	TomatoCerasiforme	Brassinosteroid	TRUE
+Solyc05g007210	PGSC0003DMP400039949\tPGSC0003DMT400059345	Has Ortholog	Potato	Brassinosteroid	FALSE
+Solyc05g007210	Sopen05g003170	Has Ortholog	TomatoPennelli	Brassinosteroid	FALSE
+Solyc05g007210	SLYcer05g00360	Has Ortholog	TomatoCerasiforme	Brassinosteroid	FALSE
+Solyc11g011020	SLYcer11g00623	Has Ortholog	TomatoCerasiforme	Brassinosteroid	FALSE
+Solyc11g011020	Capang00g000308	Has Ortholog	CaChiltepin.pep	Brassinosteroid	FALSE
+Solyc11g011020	Capana05g000833	Has Ortholog	CaZL1.pep	Brassinosteroid	FALSE
+Solyc03g116060	Sopen03g035050	Has Ortholog	TomatoPennelli	Brassinosteroid	FALSE
+Solyc03g116060	Capang03g000718	Has Ortholog	CaChiltepin.pep	Brassinosteroid	FALSE
+Solyc09g008840	Sopen09g003630	Has Ortholog	TomatoPennelli	Brassinosteroid	FALSE
+Solyc09g008840	SPI09g00400	Has Ortholog	Tomatopimp	Brassinosteroid	FALSE
+Solyc02g088390	Sopen02g033070	Has Ortholog	TomatoPennelli	Brassinosteroid	TRUE
+Solyc02g088390	Capana02g003335	Has Ortholog	CaZL1.pep	Brassinosteroid	TRUE
+Solyc11g008680	NA	No Ortholog	None	Brassinosteroid	FALSE
+Solyc01g101240	SPI01g07843	Has Ortholog	Tomatopimp	Brassinosteroid	TRUE
+Solyc01g101240	Capana08g001677	Has Ortholog	CaZL1.pep	Brassinosteroid	TRUE
+Solyc05g007210	SPI05g00394	Has Ortholog	Tomatopimp	Brassinosteroid	FALSE
+Solyc11g011020	SPI11g00763	Has Ortholog	Tomatopimp	Brassinosteroid	FALSE
+Solyc11g011020	Sopen11g005790	Has Ortholog	TomatoPennelli	Brassinosteroid	FALSE
+Solyc11g011020	PGSC0003DMP400027450\tPGSC0003DMT400040459	Has Ortholog	Potato	Brassinosteroid	FALSE
+Solyc03g116060	SLYcer03g04800	Has Ortholog	TomatoCerasiforme	Brassinosteroid	FALSE
+Solyc03g116060	PGSC0003DMP400033943\tPGSC0003DMT400050285	Has Ortholog	Potato	Brassinosteroid	FALSE
+Solyc03g116060	Capana03g000783	Has Ortholog	CaZL1.pep	Brassinosteroid	FALSE
+Solyc03g116060	SPI03g04858	Has Ortholog	Tomatopimp	Brassinosteroid	FALSE
+Solyc09g008840	SLYcer09g00483	Has Ortholog	TomatoCerasiforme	Brassinosteroid	FALSE
+Solyc09g008840	PGSC0003DMP400004822\tPGSC0003DMT400006945	Has Ortholog	Potato	Brassinosteroid	FALSE
+Solyc09g008840	Capana09g002320	Has Ortholog	CaZL1.pep	Brassinosteroid	FALSE
+Solyc08g083240	PGSC0003DMP400021405\tPGSC0003DMT400031576	Has Ortholog	Potato	Auxin	FALSE
+Solyc08g083240	SLYcer08g06541	Has Ortholog	TomatoCerasiforme	Auxin	FALSE
+Solyc08g083240	Capana01g000038	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc08g083240	SPI08g06445	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc08g083240	Sopen08g031430	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc12g015770	Capang05g001789	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc07g064500	Sopen07g032700	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc07g064500	SLYcer07g05488	Has Ortholog	TomatoCerasiforme	Auxin	FALSE
+Solyc07g064500	Capana00g004184	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc06g007910	SPI06g00257	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc06g007910	Capana06g002956	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc06g007910	Sopen06g002760	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc06g007910	Capang06g002716	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc09g098030	PGSC0003DMP400029051\tPGSC0003DMT400042832	Has Ortholog	Potato	Auxin	FALSE
+Solyc09g098030	Capana03g004277	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc09g098030	SPI09g04936	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc09g098030	SLYcer09g05251	Has Ortholog	TomatoCerasiforme	Auxin	FALSE
+Solyc09g098030	Capang03g004091	Has Ortholog	CaChiltepin.pep	Auxin	TRUE
+Solyc09g098030	Capang07g000372	Has Ortholog	CaChiltepin.pep	Auxin	TRUE
+Solyc09g082650	Capana00g000108	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc09g082650	PGSC0003DMP400011445\tPGSC0003DMT400016513	Has Ortholog	Potato	Auxin	FALSE
+Solyc01g098650	SLYcer01g07687	Has Ortholog	TomatoCerasiforme	Auxin	FALSE
+Solyc03g113560	NA	No Ortholog	None	Auxin	FALSE
+Solyc02g080940	Sopen02g025620	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc09g005310	SLYcer09g00220	Has Ortholog	TomatoCerasiforme	Auxin	FALSE
+Solyc09g005310	Sopen09g001280	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc09g005310	Capang00g003433	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc07g052430	SLYcer07g04752	Has Ortholog	TomatoCerasiforme	Auxin	FALSE
+Solyc07g052430	SPI07g05469	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc05g055220	Capang05g001990	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc02g068280	Sopen02g017380	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc02g068280	Capana02g001083	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc08g083240	Capang01g000034	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc12g015770	PGSC0003DMP400051900\tPGSC0003DMT400076611	Has Ortholog	Potato	Auxin	FALSE
+Solyc12g015770	Capana05g002235	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc07g064500	PGSC0003DMP400038474\tPGSC0003DMT400057204	Has Ortholog	Potato	Auxin	FALSE
+Solyc07g064500	Capang01g005125	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc07g064500	SPI07g06203	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc06g007910	PGSC0003DMP400002225\tPGSC0003DMT400003089	Has Ortholog	Potato	Auxin	FALSE
+Solyc09g098030	NA	No Ortholog	None	Auxin	FALSE
+Solyc09g082650	SLYcer09g04768	Has Ortholog	TomatoCerasiforme	Auxin	FALSE
+Solyc09g082650	Sopen09g031500	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc09g082650	SPI09g04424	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc09g082650	Capang03g003724	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc01g098650	PGSC0003DMP400049824\tPGSC0003DMT400073632	Has Ortholog	Potato	Auxin	FALSE
+Solyc01g098650	Sopen01g042200	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc01g098650	Capana08g001375	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc01g098650	SPI01g07579	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc01g098650	Capang01g003941	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc03g113560	NA	No Ortholog	None	Auxin	FALSE
+Solyc02g080940	SLYcer02g04481	Has Ortholog	TomatoCerasiforme	Auxin	FALSE
+Solyc02g080940	PGSC0003DMP400028804\tPGSC0003DMT400042468	Has Ortholog	Potato	Auxin	FALSE
+Solyc02g080940	Capana02g002240	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc02g080940	SPI02g03376	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc09g005310	PGSC0003DMP400039991\tPGSC0003DMT400059413	Has Ortholog	Potato	Auxin	FALSE
+Solyc09g005310	SPI09g00110	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc09g005310	Capana09g001222	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc07g052430	Sopen07g026060	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc07g052430	Capang07g001491	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc07g052430	PGSC0003DMP400044210\tPGSC0003DMT400065532	Has Ortholog	Potato	Auxin	FALSE
+Solyc05g055220	SPI05g04862	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc05g055220	PGSC0003DMP400040453\tPGSC0003DMT400060128	Has Ortholog	Potato	Auxin	FALSE
+Solyc05g055220	Sopen05g033660	Has Ortholog	TomatoPennelli	Auxin	FALSE
+Solyc05g055220	Capana05g002442	Has Ortholog	CaZL1.pep	Auxin	FALSE
+Solyc05g055220	SLYcer10g02119	Has Ortholog	TomatoCerasiforme	Auxin	FALSE
+Solyc02g068280	Capang02g000991	Has Ortholog	CaChiltepin.pep	Auxin	FALSE
+Solyc02g068280	PGSC0003DMP400016639\tPGSC0003DMT400024344	Has Ortholog	Potato	Auxin	FALSE
+Solyc02g068280	SPI02g02510	Has Ortholog	Tomatopimp	Auxin	FALSE
+Solyc02g068280	SLYcer02g03613	Has Ortholog	TomatoCerasiforme	Auxin	FALSE

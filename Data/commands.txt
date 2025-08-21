@@ -1,0 +1,182 @@
+#Create working directories 
+
+mkdir preprocessing
+cd preprocessing
+mkdir auxin
+mkdir brassinosteroid
+mkdir jasmonic
+
+#Create template references
+
+awk -v OFS='\t' '{print $2, $1, "1", "1"}' ../AuxMip_net.tsv > auxin/tomato.tsv
+awk -v OFS='\t' '{print $2, $1, "1", "1"}' ../BrassinoMip_net.tsv > brassinosteroid/tomato.tsv
+awk -v OFS='\t' '{print $2, $1, "1", "1"}' ../MYC2_net_fixed.tsv > jasmonic/tomato.tsv
+
+#Create network files (The next lines exemplify the auxin case)
+#auxin
+#potato
+
+awk -v species="Potato" -F '\t' 'BEGIN {OFS="\t"} 
+FNR==NR {
+  sub(/\r$/, "", $4)
+  if ($4 == species && $3 == "Has Ortholog") {
+    has_ortholog[$1] = 1
+  }
+  next
+}
+{
+  col3 = ($1 in has_ortholog) ? 1 : 2
+  col4 = ($2 in has_ortholog) ? 1 : 2
+  print $1, $2, col3, col4
+}' ../../HormoneOrthologs.tsv tomato.tsv > potato.tsv
+
+#CaChiltepin
+
+awk -v species="CaChiltepin.pep" -F '\t' 'BEGIN {OFS="\t"} 
+FNR==NR {
+  sub(/\r$/, "", $4)
+  if ($4 == species && $3 == "Has Ortholog") {
+    has_ortholog[$1] = 1
+  }
+  next
+}
+{
+  col3 = ($1 in has_ortholog) ? 1 : 2
+  col4 = ($2 in has_ortholog) ? 1 : 2
+  print $1, $2, col3, col4
+}' ../../HormoneOrthologs.tsv tomato.tsv > caChiltepin.tsv
+
+#CaZL1.pep
+
+awk -v species="CaZL1.pep" -F '\t' 'BEGIN {OFS="\t"}
+FNR==NR {
+  sub(/\r$/, "", $4)
+  if ($4 == species && $3 == "Has Ortholog") {
+    has_ortholog[$1] = 1
+  }
+  next
+}
+{
+  col3 = ($1 in has_ortholog) ? 1 : 2
+  col4 = ($2 in has_ortholog) ? 1 : 2
+  print $1, $2, col3, col4
+}' ../../HormoneOrthologs.tsv tomato.tsv > caZL1.tsv
+
+#TomatoCerasiforme
+
+awk -v species="TomatoCerasiforme" -F '\t' 'BEGIN {OFS="\t"}
+FNR==NR {
+  sub(/\r$/, "", $4)
+  if ($4 == species && $3 == "Has Ortholog") {
+    has_ortholog[$1] = 1
+  }
+  next
+}
+{
+  col3 = ($1 in has_ortholog) ? 1 : 2
+  col4 = ($2 in has_ortholog) ? 1 : 2
+  print $1, $2, col3, col4
+}' ../../HormoneOrthologs.tsv tomato.tsv > tomatoCerasiforme.tsv    
+
+#TomatoPennelli
+
+awk -v species="TomatoPennelli" -F '\t' 'BEGIN {OFS="\t"}
+FNR==NR {
+  sub(/\r$/, "", $4)
+  if ($4 == species && $3 == "Has Ortholog") {
+    has_ortholog[$1] = 1
+  }
+  next
+}
+{
+  col3 = ($1 in has_ortholog) ? 1 : 2
+  col4 = ($2 in has_ortholog) ? 1 : 2
+  print $1, $2, col3, col4
+}' ../../HormoneOrthologs.tsv tomato.tsv > tomatoPennelli.tsv
+
+#Tomatopimp
+
+awk -v species="Tomatopimp" -F '\t' 'BEGIN {OFS="\t"}
+FNR==NR {
+  sub(/\r$/, "", $4)
+  if ($4 == species && $3 == "Has Ortholog") {
+    has_ortholog[$1] = 1
+  }
+  next
+}
+{
+  col3 = ($1 in has_ortholog) ? 1 : 2
+  col4 = ($2 in has_ortholog) ? 1 : 2
+  print $1, $2, col3, col4
+}' ../../HormoneOrthologs.tsv tomato.tsv > tomatopimp.tsv
+
+#Then run the same lines (in the corresponding directory) for the other hormones of interest
+#For example:
+
+cd ../jasmonic
+#potato
+
+awk -v species="Potato" -F '\t' 'BEGIN {OFS="\t"}
+FNR==NR {
+  sub(/\r$/, "", $4)
+  if ($4 == species && $3 == "Has Ortholog") {
+    has_ortholog[$1] = 1
+  }
+  next
+}
+{
+  col3 = ($1 in has_ortholog) ? 1 : 2
+  col4 = ($2 in has_ortholog) ? 1 : 2
+  print $1, $2, col3, col4
+}' ../../HormoneOrthologs.tsv tomato.tsv > potato.tsv
+
+#Once we have already created this files, we proceed to concatenate them based on its phylogeny (example in 'jasmonic' path)
+#Tomato Cerasiforme & Tomato Pimp
+awk '
+BEGIN {
+    FS = OFS = "\t"
+}
+NR == FNR {
+    col3_1[$1,$2] = $3
+    col4_1[$1,$2] = $4
+    next
+}
+{
+    key1 = $1
+    key2 = $2
+    c3_1 = col3_1[key1,key2]
+    c4_1 = col4_1[key1,key2]
+    c3_2 = $3
+    c4_2 = $4
+    new3 = (c3_1 == 1 || c3_2 == 1) ? 1 : 2
+    new4 = (c4_1 == 1 || c4_2 == 1) ? 1 : 2
+    print key1, key2, new3, new4
+}' tomatoCerasiforme.tsv tomatopimp.tsv > tomatoCerasiforme_tomatopimp.tsv
+
+#Chiltepin & CaZ
+
+awk '
+BEGIN {
+    FS = OFS = "\t"
+}
+NR == FNR {
+    col3_1[$1,$2] = $3
+    col4_1[$1,$2] = $4
+    next
+}
+{
+    key1 = $1
+    key2 = $2
+    c3_1 = col3_1[key1,key2]
+    c4_1 = col4_1[key1,key2]
+    c3_2 = $3
+    c4_2 = $4
+    new3 = (c3_1 == 1 || c3_2 == 1) ? 1 : 2
+    new4 = (c4_1 == 1 || c4_2 == 1) ? 1 : 2
+    print key1, key2, new3, new4
+}' caChiltepin.tsv caZL1.tsv > caChiltepin_caZL1.tsv 
+
+#Finally to create the visualizations just run the Regulatory-Network-Plotter.R script
+#(Don't forget to modify the line in the Rscript that indicates the path to the folder containing the files we just created).
+#Note that outputs will be stored in the assigned working directory.
+#Modify line 146 to choose between labeled (TRUE) or unlabeled (FALSE) output networks.
